@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\ReceiveLogs.exe
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\ReceiveLogs.deps.json
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\ReceiveLogs.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\ReceiveLogs.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\ReceiveLogs.pdb
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\refint\ReceiveLogs.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.pdb
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ReceiveLogs.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\ReceiveLogs\obj\Debug\net7.0\ref\ReceiveLogs.dll

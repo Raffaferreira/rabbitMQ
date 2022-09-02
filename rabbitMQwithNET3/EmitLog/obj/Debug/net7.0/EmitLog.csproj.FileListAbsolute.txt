@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\EmitLog.exe
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\EmitLog.deps.json
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\EmitLog.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\EmitLog.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\EmitLog.pdb
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\refint\EmitLog.dll
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.pdb
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\EmitLog.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\rabbitMQwithNET3\EmitLog\obj\Debug\net7.0\ref\EmitLog.dll
